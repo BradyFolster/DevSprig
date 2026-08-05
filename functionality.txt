@@ -1,0 +1,68 @@
+Input Format
+	- .csv
+	- Google Forms -> Link to Sheets -> Download -> .csv
+
+Should Calculate:
+	- Total Responses
+	- Valid Responses
+	- Missing Answers
+	- Duplicate Responses
+	- Response Date Range
+	- Responses Over Time
+	- Excluded Responses
+
+Multiple Choice & Dropdown Questions:
+	- Percentages
+	- Most common answer
+	- Missing answer count
+	- Bar/Pie chart
+
+Checkbox Questions:
+	- Count for each choice
+	- Percentage of respondents selecting each choice
+	- Average number of choices selected
+	- Most common combinations
+	- Number selecting "Other"
+	- Number selecting "None"
+
+Rating-Scale Questions:
+	- Response distribution
+	- Median
+	- Mean
+	- Standard deviation
+	- Min and Max
+	- Positive response rate
+	- Negative response rate
+	- Missing answers
+
+Task Completion Data:
+	- Completed, partially completed, could not complete
+
+Time-On-Task Data:
+	- Average time
+	- Median time
+	- Fastest and slowest times
+	- Percentiles
+	- Potential outliers
+	- Time by participant group
+	- Time by product version
+	- Time for successful versus unsuccessful attemps
+
+Written-Response Data:
+	- Number of written responses
+	- Percentage of responsdents who answered
+	- Average response length
+	- Search and filtering
+	- Manual tags
+	- Theme counts
+	- Representative quotations
+	- Exportable response list
+
+Comparison Between Groups:
+	- Windows users vs. macOS users
+	- New users vs. experienced users
+	- Version 1.0 vs. version 1.1
+
+Net Promoter Score:
+	- "How likely to reccomend..."
+	- NPS = percentage of promoters - percentage of detractors
